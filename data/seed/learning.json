@@ -1,0 +1,68 @@
+{
+  "learning_tasks": [
+    {
+      "skill": "LangChain",
+      "title": "Learn LangChain Tool Calling",
+      "description": "Learn how to define tools, expose them to an LLM, validate tool arguments, and execute tool calls.",
+      "priority": "high",
+      "status": "in_progress",
+      "resource_url": null
+    },
+    {
+      "skill": "LangGraph",
+      "title": "Learn LangGraph State and Nodes",
+      "description": "Learn how to build stateful workflows using LangGraph nodes, edges, conditional routing, and shared state.",
+      "priority": "high",
+      "status": "in_progress",
+      "resource_url": null
+    },
+    {
+      "skill": "LangGraph",
+      "title": "Build Multi-Step Agent Workflow",
+      "description": "Implement a multi-step workflow that retrieves information, reasons over it, selects tools, executes actions, and records the result.",
+      "priority": "high",
+      "status": "pending",
+      "resource_url": null
+    },
+    {
+      "skill": "Agentic AI",
+      "title": "Learn Agent Planning Patterns",
+      "description": "Study planning, tool selection, state management, reasoning-before-action, and human approval patterns for AI agents.",
+      "priority": "high",
+      "status": "pending",
+      "resource_url": null
+    },
+    {
+      "skill": "RAG",
+      "title": "Improve Retrieval Quality",
+      "description": "Study chunking strategies, metadata filtering, semantic retrieval, and evidence-based answer generation.",
+      "priority": "medium",
+      "status": "completed",
+      "resource_url": null
+    },
+    {
+      "skill": "PostgreSQL",
+      "title": "Practice PostgreSQL for Backend Applications",
+      "description": "Practice relational schema design, joins, filtering, indexing, and PostgreSQL integration with Python applications.",
+      "priority": "medium",
+      "status": "in_progress",
+      "resource_url": null
+    },
+    {
+      "skill": "Docker",
+      "title": "Learn Production Docker Workflows",
+      "description": "Practice Dockerfiles, containerized FastAPI services, environment configuration, and local multi-service development.",
+      "priority": "medium",
+      "status": "pending",
+      "resource_url": null
+    },
+    {
+      "skill": "FastAPI",
+      "title": "Build Production-Ready FastAPI APIs",
+      "description": "Practice dependency injection, validation, error handling, API organization, and deployment patterns.",
+      "priority": "medium",
+      "status": "completed",
+      "resource_url": null
+    }
+  ]
+}

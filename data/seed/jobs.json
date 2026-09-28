@@ -1,0 +1,74 @@
+[
+  {
+    "title": "AI Engineer",
+    "company": "NovaAI Labs",
+    "location": "Gurugram",
+    "job_url": "https://example.com/jobs/ai-engineer-novaai",
+    "description": "Build and deploy machine learning and generative AI applications. Work with APIs, retrieval systems, databases, and production ML services.",
+    "required_skills": "Python, Machine Learning, FastAPI, PostgreSQL",
+    "preferred_skills": "RAG, LangGraph, Docker",
+    "experience_required": "0-2 years",
+    "education_required": "B.Tech or equivalent",
+    "status": "discovered"
+  },
+  {
+    "title": "GenAI Engineer",
+    "company": "Vertex Intelligence",
+    "location": "Noida",
+    "job_url": "https://example.com/jobs/genai-engineer-vertex",
+    "description": "Develop LLM-powered applications using retrieval augmented generation, tool calling, vector databases, and agentic workflows.",
+    "required_skills": "Python, LLM, RAG, LangChain",
+    "preferred_skills": "LangGraph, PostgreSQL, Docker",
+    "experience_required": "0-2 years",
+    "education_required": "B.Tech in Computer Science or related field",
+    "status": "discovered"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "DataForge AI",
+    "location": "Delhi NCR",
+    "job_url": "https://example.com/jobs/ml-engineer-dataforge",
+    "description": "Train, evaluate, and deploy machine learning models. Build data pipelines and inference APIs for production systems.",
+    "required_skills": "Python, Machine Learning, Scikit-learn, TensorFlow",
+    "preferred_skills": "FastAPI, Docker, PostgreSQL",
+    "experience_required": "0-2 years",
+    "education_required": "B.Tech or equivalent",
+    "status": "discovered"
+  },
+  {
+    "title": "Flutter Developer",
+    "company": "MobileWorks",
+    "location": "Noida",
+    "job_url": "https://example.com/jobs/flutter-developer-mobileworks",
+    "description": "Develop cross-platform mobile applications using Flutter and integrate backend APIs and cloud databases.",
+    "required_skills": "Flutter, Dart, REST APIs, Git",
+    "preferred_skills": "Riverpod, Supabase, Firebase",
+    "experience_required": "0-1 years",
+    "education_required": "B.Tech or equivalent",
+    "status": "discovered"
+  },
+  {
+    "title": "Backend Engineer",
+    "company": "CloudStack Systems",
+    "location": "Gurugram",
+    "job_url": "https://example.com/jobs/backend-engineer-cloudstack",
+    "description": "Build backend services and REST APIs using Python. Design relational databases and deploy scalable application services.",
+    "required_skills": "Python, FastAPI, PostgreSQL, REST APIs",
+    "preferred_skills": "Docker, Git, Supabase",
+    "experience_required": "0-2 years",
+    "education_required": "B.Tech or equivalent",
+    "status": "discovered"
+  },
+  {
+    "title": "AI Research Intern",
+    "company": "Visionary Research",
+    "location": "Remote",
+    "job_url": "https://example.com/jobs/ai-research-intern",
+    "description": "Work on computer vision and deep learning research projects involving image classification, model evaluation, and experimentation.",
+    "required_skills": "Python, Deep Learning, Computer Vision, TensorFlow",
+    "preferred_skills": "PyTorch, Research, Generative AI",
+    "experience_required": "0-1 years",
+    "education_required": "B.Tech in Computer Science or AI/ML",
+    "status": "discovered"
+  }
+]

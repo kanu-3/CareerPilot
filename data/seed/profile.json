@@ -1,0 +1,198 @@
+{
+  "user": {
+    "name": "Kanishka Jha",
+    "email": "kanishka.careerpilot@example.com",
+    "location": "Gurugram, Haryana, India",
+    "target_roles": [
+      "AI Engineer",
+      "Machine Learning Engineer",
+      "GenAI Engineer",
+      "Software Engineer"
+    ],
+    "preferred_locations": [
+      "Noida",
+      "Delhi NCR",
+      "Gurugram",
+      "Remote"
+    ],
+    "salary_expectation": "25000+ INR/month for internships",
+    "work_preference": "Hybrid or onsite",
+    "education": "B.Tech in Computer Science and Engineering (AI/ML)",
+    "experience": "Flutter Developer Intern, Dec 2025 - Jan 2026",
+    "career_goals": "Build a career in AI/ML engineering with practical experience in machine learning, generative AI, backend systems, and agentic AI."
+  },
+
+  "skills": [
+    {
+      "name": "Python",
+      "proficiency": "strong",
+      "evidence": "Used across machine learning, FastAPI, RAG, and AI projects.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Machine Learning",
+      "proficiency": "strong",
+      "evidence": "Built and evaluated machine learning models for project work.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Deep Learning",
+      "proficiency": "strong",
+      "evidence": "Worked with TensorFlow, Keras, EfficientNetB0, and image classification.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "TensorFlow",
+      "proficiency": "strong",
+      "evidence": "Used for plant disease classification in KrishiVani.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Computer Vision",
+      "proficiency": "strong",
+      "evidence": "Built plant disease classification using leaf images.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "RAG",
+      "proficiency": "strong",
+      "evidence": "Implemented knowledge retrieval using embeddings and PGVector.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Generative AI",
+      "proficiency": "intermediate",
+      "evidence": "Worked with Qwen2.5-VL and retrieval-augmented generation.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "FastAPI",
+      "proficiency": "strong",
+      "evidence": "Built backend inference and API services for AI projects.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "PostgreSQL",
+      "proficiency": "intermediate",
+      "evidence": "Used PostgreSQL and Supabase for application data.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "PGVector",
+      "proficiency": "intermediate",
+      "evidence": "Used PGVector for semantic knowledge retrieval.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Flutter",
+      "proficiency": "strong",
+      "evidence": "Built Flutter applications and worked as a Flutter Developer Intern.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Dart",
+      "proficiency": "strong",
+      "evidence": "Used for Flutter application development.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Supabase",
+      "proficiency": "intermediate",
+      "evidence": "Used as backend/database infrastructure in projects.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Docker",
+      "proficiency": "intermediate",
+      "evidence": "Listed as a development and deployment tool.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "Git",
+      "proficiency": "strong",
+      "evidence": "Used for project version control.",
+      "source": "resume",
+      "verified": true
+    },
+    {
+      "name": "LangChain",
+      "proficiency": "learning",
+      "evidence": "Currently learning and using LangChain for CareerPilot.",
+      "source": "current_project",
+      "verified": true
+    },
+    {
+      "name": "LangGraph",
+      "proficiency": "learning",
+      "evidence": "Currently learning and using LangGraph for CareerPilot agent orchestration.",
+      "source": "current_project",
+      "verified": true
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "KrishiVani",
+      "description": "AI-powered agricultural platform providing plant disease detection, agricultural question answering, RAG-based knowledge retrieval, and market forecasting.",
+      "technologies": [
+        "Flutter",
+        "FastAPI",
+        "Python",
+        "TensorFlow",
+        "Keras",
+        "EfficientNetB0",
+        "Qwen2.5-VL",
+        "RAG",
+        "nomic-embed-text",
+        "Supabase",
+        "PostgreSQL",
+        "PGVector"
+      ],
+      "responsibilities": [
+        "Built plant disease classification pipeline.",
+        "Developed FastAPI inference services.",
+        "Integrated multimodal LLM capabilities.",
+        "Implemented RAG-based knowledge retrieval.",
+        "Integrated PostgreSQL and PGVector."
+      ]
+    },
+    {
+      "name": "CareerPilot",
+      "description": "Personal AI career agent that analyzes jobs against a user's profile, identifies skill gaps, creates learning tasks, manages applications, stores long-term memory, and uses agentic workflows.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "Streamlit",
+        "LangChain",
+        "LangGraph",
+        "Qwen2.5-VL",
+        "Ollama",
+        "PostgreSQL",
+        "Supabase",
+        "PGVector",
+        "RAG"
+      ],
+      "responsibilities": [
+        "Designed agentic career-management architecture.",
+        "Implemented profile and job matching tools.",
+        "Implemented evidence-based skill-gap detection.",
+        "Implemented learning and application management tools.",
+        "Implemented persistent memory and notification tools."
+      ]
+    }
+  ]
+}
